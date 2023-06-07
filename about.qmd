@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: "Infoo"
 ---
 
 ![](images/cat-jump.gif)
