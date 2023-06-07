@@ -1,12 +1,12 @@
 ---
-title: "Infoo"
+title: "Info"
 ---
 
 ![](images/cat-jump.gif)
 
 Сайт создан: **Солдатенкова Ксения БИСО-03-20** 
 
-Ссылка на основой репрозиторий: <https://github.com/ksu9999/SAZNSD>
+Ссылка1 на основой репрозиторий: <https://github.com/ksu9999/SAZNSD>
 
 Ссылка на вспомогательный репозиторий: <https://github.com/ksu9999/SAZ_NSD>
 
